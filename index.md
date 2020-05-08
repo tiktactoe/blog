@@ -2,17 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# How to write a Tic Tac Toe in Pascal?
 
-[Link to another page](./another-page.html).
+Pascal is an imperative high-level procedural programming language. It was design by [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth) released in 1970. It was developed following the pattern structure of [ALGOL 60](https://en.wikipedia.org/wiki/ALGOL_60) language.
 
-There should be whitespace between paragraphs.
+ALGOL was developed with a main goal, describe algorithms. So Pascal had explicit goals that would be efficient using a compiler and in runtime and, of course, allow developers to have a well-structured program. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+![Pascal](https://github.com/tiktactoe/blog/tree/gh-pages/assets/img/pascal.png)
 
 ## Header 2
 
