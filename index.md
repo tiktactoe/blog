@@ -8,7 +8,7 @@ Pascal is an imperative high-level procedural programming language. It was desig
 
 ALGOL was developed with a main goal, describe algorithms. So Pascal had explicit goals that would be efficient using a compiler and in runtime and, of course, allow developers to have a well-structured program. 
 
-![Pascal](https://github.com/tiktactoe/blog/tree/gh-pages/assets/img/pascal.png)
+![Pascal](/blog/assets/img/pascal.png)
 
 
 ![Step 1](/blog/assets/img/Step_1.png)
