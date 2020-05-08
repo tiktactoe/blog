@@ -13,7 +13,7 @@ ALGOL was developed with a main goal, describe algorithms. So Pascal had explici
 
 ![Step 1](/blog/assets/img/Step_1.png)
 
-![Step 2](https://github.com/tiktactoe/blog/tree/gh-pages/assets/img/Step_2.png)
+![Step 2](/blog/assets/img/Step_2.png)
 
 ![Step 3](https://github.com/tiktactoe/blog/tree/gh-pages/assets/img/Step_3.png)
 
