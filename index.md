@@ -19,3 +19,7 @@ Follow the images below and you will see how the program works. There are two pl
 ![Step 3](/blog/assets/img/Step_3.png)
 
 ![Step 4](/blog/assets/img/Step_4.png)
+
+# Flow Chart
+![Flow Chart](/blog/assets/img/flowchart_tictactoe.jpg)
+
